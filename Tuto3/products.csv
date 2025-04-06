@@ -1,0 +1,6 @@
+product_id,name,price,category_id,supplier_id
+201,Chocolate,5.5,301,401
+202,Tea,3.0,302,402
+203,Coffee,4.0,302,401
+204,Cookies,4.5,301,403
+205,Juice,3.5,302,402
